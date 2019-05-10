@@ -1,0 +1,38 @@
+# SequenceAnalysisCourseAtBrandeis
+This repos contains all the materials for the graduate-level bioinformatics course "Biological Sequence Analysis" that I taught in Brandeis University in 2018-2019.
+
+## Syllabus
+
+Week 1
+Introduction to genomics and biological sequence analysis
+--
+Week 2
+Basic biological sequence analysis
+--
+Week 3
+Sequence alignment
+--
+Week 4
+String search and motif discovery
+--
+Week 5
+Advanced sequence analysis and introduction to NGS
+--
+Week 6
+NGS bioinformatics
+--
+Week 7
+DNA-Seq
+--
+Week 8
+Genome assembly
+--
+Week 9
+Functional annotation of sequences
+--
+Week 10
+Genomic Medicine
+--
+
+
+
