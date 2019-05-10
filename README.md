@@ -1,7 +1,7 @@
 # SequenceAnalysisCourseAtBrandeis
 This repos contains all the materials for the graduate-level bioinformatics course "Biological Sequence Analysis" that I taught in Brandeis University in 2018-2019.
 
-Syllabus
+## Syllabus
 
 Week 1
 Introduction to genomics and biological sequence analysis
@@ -31,6 +31,8 @@ Week 9
 Functional annotation of sequences
 --
 Week 10
-<b>Genomic Medicine</b>
+Genomic Medicine
+--
+
 
 
